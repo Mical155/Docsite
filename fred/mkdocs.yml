@@ -1,0 +1,11 @@
+site_name: MkLorum
+site_url: https://example.com
+nav: 
+  - Home: index.md
+  - What to know: about.md 
+  - Scan: 'https://www.scan.co.uk'
+
+markdown_extensions:
+    - smarty
+    - footnotes
+    - fenced_code
