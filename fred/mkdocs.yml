@@ -4,6 +4,7 @@ nav:
   - Home: index.md
   - What to know: about.md 
   - Scan: 'https://www.scan.co.uk'
+  - Quotes: quotes.md
 
 markdown_extensions:
     - smarty

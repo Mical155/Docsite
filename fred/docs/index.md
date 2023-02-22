@@ -6,6 +6,3 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
  * To extend your computer knowledge
  * To provide you purchaseable computers
-
-# j 
- y
